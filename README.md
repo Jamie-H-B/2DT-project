@@ -7,10 +7,10 @@ we have decided to make a 2D platformer on unity for our 2022 Programing assessm
 
 
 roles
-jamie code
-charlie code and art
-kylen code and art
-ahmed art
+Jamie: Code
+Charlie: code and art
+Kylen: code and art
+Ahmed: art
 
 
 change log  
