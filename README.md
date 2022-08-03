@@ -17,5 +17,8 @@ change log
 4/7/22 - jamie added horizontal movement and set up github  
 5/7/22 - jamie added jumping, and made the camera follow the player  
 6/7/22 - jamie moved project files to google drive due to running out of GitHub LFS storage
-2/8/22 - jamie added a few bits of art to the github
+2/8/22 - jamie added a few bits of art to the github  
 3/8/22 - charlie added person template for player place holder  
+3/8/22 - jamie added the updated unity project with working menus to the google drive  
+feedback from charlie:  
+very smooth and responsive, still very generic but can be fixed later. overall nothing needs to be fixed at this point.
