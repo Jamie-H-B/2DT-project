@@ -18,3 +18,4 @@ change log
 5/7/22 - jamie added jumping, and made the camera follow the player  
 6/7/22 - jamie moved project files to google drive due to running out of GitHub LFS storage
 2/8/22 - jamie added a few bits of art to the github
+3/8/22 - charlie added person template for player place holder  
