@@ -21,4 +21,22 @@ change log
 3/8/22 - charlie added person template for player place holder  
 3/8/22 - jamie added the updated unity project with working menus to the google drive  
 feedback from charlie:  
-very smooth and responsive, still very generic but can be fixed later. overall nothing needs to be fixed at this point.
+very smooth and responsive, still very generic but can be fixed later. overall nothing needs to be fixed at this point.  
+8/8/22 - Scrum meeting  
+Charlie - has been: researching enemy ai, projectiles  
+challenges: AI is going hard - might have to scrap enemies if we are running low on time. projectiles should be easy  
+working on next - coding projectiles  
+
+Kylen - has been: working on pixel art (doors, torches, traps, bench)  
+challenges: not really  
+working on next - working on art for projectiles (with charlie). Also make more traps.  
+notes: concept art for boss if we are gonna do a boss, or concept art for somthing in place of a boss.  
+
+Ahmed - has been working on: sprite sheets, for first section, with idle animation.  
+challenges: drawing sprites is hard - using templates is a more efficient. kylen will help with sprites  
+working on next - more sprites. people in background.  
+notes: sprites take a long time.  
+
+Jamie - has been working on traps, and level loading and menus.  
+challenges: Menus are a bit bland, and there is only one trap.  
+working on next - managing score, and using databased with unity. This is very important to the overall project
