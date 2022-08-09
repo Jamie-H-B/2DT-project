@@ -23,7 +23,6 @@ change log
 feedback from charlie:  
 very smooth and responsive, still very generic but can be fixed later. overall nothing needs to be fixed at this point.  
 8/8/22 - Scrum meeting  
-9/8/22 - charlie changed placeholder person sprite   
 Charlie - has been: researching enemy ai, projectiles  
 challenges: AI is going hard - might have to scrap enemies if we are running low on time. projectiles should be easy  
 working on next - coding projectiles  
@@ -41,3 +40,5 @@ notes: sprites take a long time.
 Jamie - has been working on traps, and level loading and menus.  
 challenges: Menus are a bit bland, and there is only one trap.  
 working on next - managing score, and using databased with unity. This is very important to the overall project
+9/8/22 - charlie changed placeholder person sprite  
+9/8/22 - jamie added the saw blade art to the github
