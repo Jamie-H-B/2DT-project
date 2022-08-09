@@ -23,7 +23,7 @@ change log
 feedback from charlie:  
 very smooth and responsive, still very generic but can be fixed later. overall nothing needs to be fixed at this point.  
 8/8/22 - Scrum meeting  
-9/8/22 - charlie changed placeholder person sprite 
+9/8/22 - charlie changed placeholder person sprite   
 Charlie - has been: researching enemy ai, projectiles  
 challenges: AI is going hard - might have to scrap enemies if we are running low on time. projectiles should be easy  
 working on next - coding projectiles  
