@@ -41,4 +41,4 @@ Jamie - has been working on traps, and level loading and menus.
 challenges: Menus are a bit bland, and there is only one trap.  
 working on next - managing score, and using databased with unity. This is very important to the overall project
 9/8/22 - charlie changed placeholder person sprite  
-9/8/22 - jamie added the saw blade art to the github
+9/8/22 - jamie added the saw blade art to the github and updated the names of some files.
