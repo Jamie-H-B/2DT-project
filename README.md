@@ -20,6 +20,7 @@ change log
 2/8/22 - jamie added a few bits of art to the github  
 3/8/22 - charlie added person template for player place holder  
 3/8/22 - jamie added the updated unity project with working menus to the google drive  
+9/8/22 - charlie changed placeholder person sprite 
 feedback from charlie:  
 very smooth and responsive, still very generic but can be fixed later. overall nothing needs to be fixed at this point.  
 8/8/22 - Scrum meeting  
