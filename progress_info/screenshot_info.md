@@ -1,0 +1,1 @@
+screenshot1: current state of the game. Tilemaps are gonna be implemented very soon, and shouldn't take too long. player is a placeholder, but first sprite sheet is almost complete. Once tilemaps are complete, won't take long to make levels.
