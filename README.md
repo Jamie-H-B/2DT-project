@@ -41,4 +41,17 @@ Jamie - has been working on traps, and level loading and menus.
 challenges: Menus are a bit bland, and there is only one trap.  
 working on next - managing score, and using databased with unity. This is very important to the overall project
 9/8/22 - charlie changed placeholder person sprite  
-9/8/22 - jamie added the saw blade art to the github and updated the names of some files.
+9/8/22 - jamie added the saw blade art to the github and updated the names of some files.  
+  
+12/8/22 - scrum meeting  
+Kylen - has been: working on item pickups, sawblade traps, and sawblade trap supports.  
+challenges: not really  
+working on next - sprite sheets and animations.  
+
+Ahmed - has been: working on sprite sheet (walk, run)  
+challenges: not really  
+working on next - jumping and falling animations.  
+
+Jamie - has been: working on limiting jumps, and picking up items.  
+challenges: issues with limiting jumps, script is not working.  
+working on next - item pickups. won't be too hard.
