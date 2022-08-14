@@ -54,4 +54,5 @@ working on next - jumping and falling animations.
 
 Jamie - has been: working on limiting jumps, and picking up items.  
 challenges: issues with limiting jumps, script is not working.  
-working on next - item pickups. won't be too hard.
+working on next - item pickups. won't be too hard.  
+15/8/22 made a filler exit button 
