@@ -56,3 +56,5 @@ Jamie - has been: working on limiting jumps, and picking up items.
 challenges: issues with limiting jumps, script is not working.  
 working on next - item pickups. won't be too hard.  
 15/8/22 made a filler exit button 
+
+15/08/22 Kylen uploaded a pixel art gif of a torch 
