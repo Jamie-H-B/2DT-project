@@ -55,6 +55,7 @@ working on next - jumping and falling animations.
 Jamie - has been: working on limiting jumps, and picking up items.  
 challenges: issues with limiting jumps, script is not working.  
 working on next - item pickups. won't be too hard.  
-15/8/22 made a filler exit button 
+15/8/22 made a filler exit button  
+15/08/22 Kylen uploaded a pixel art gif of a torch  
+20/8/22 Jamie updated the screenshots folder, and has fixed the bug allowing the player to jump more than once. is now working on making the rotating saw trap, and is planning on selecting a "game like" font to use for buttons and menus.
 
-15/08/22 Kylen uploaded a pixel art gif of a torch 

@@ -1,1 +1,2 @@
-screenshot1: current state of the game. Tilemaps are gonna be implemented very soon, and shouldn't take too long. player is a placeholder, but first sprite sheet is almost complete. Once tilemaps are complete, won't take long to make levels.
+screenshot1: current state of the game. Tilemaps are gonna be implemented very soon, and shouldn't take too long. player is a placeholder, but first sprite sheet is almost complete. Once tilemaps are complete, won't take long to make levels.  
+screenshot2: tilemaps are proving difficult, but progress is being made. they should be fixed soon. player jumping bug has now been solved though, with the player now only able to jump once. the two traps are visible, with the saw trap still in progress. 20/8/22  
