@@ -54,4 +54,17 @@ working on next - jumping and falling animations.
 
 Jamie - has been: working on limiting jumps, and picking up items.  
 challenges: issues with limiting jumps, script is not working.  
-working on next - item pickups. won't be too hard.
+working on next - item pickups. won't be too hard.  
+  
+22/8/22 - scrum meeting  
+Kylen - has been: working on torch, turret, raising spike trap, and moving projectile.  
+challenges: not putting stuff on github and trello.  
+working on next - putting information on trello and github.  
+  
+Ahmed - has been: working on upscaling textures to 64 bit, and sprite.  
+challenges: acually showing what he is doing what he is doing on github and trello. not iterating with other team members.  
+working on next - putting stuff on github and updating the trello.  
+  
+Jamie - has been: fixed jumping, added more traps, relayed issues with the tilemap to ahmed.  
+challenges: jumping was a major issue to fix, but got there in the end. traps were not hard, and picking up items won't be hard.  
+working on next - picking up items, fixing tilemaps, and saving a score. finding an appropriate font for the game.
