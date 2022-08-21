@@ -69,4 +69,4 @@ Jamie - has been: fixed jumping, added more traps, relayed issues with the tilem
 challenges: jumping was a major issue to fix, but got there in the end. traps were not hard, and picking up items won't be hard.  
 working on next - picking up items, fixing tilemaps, and saving a score. finding an appropriate font for the game.
 
-Kylen - Uploaded torch and tilemaps to progress_info.
+Kylen - Uploaded torch and tilemaps to progress_info 22/08/2022.
