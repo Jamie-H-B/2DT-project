@@ -70,3 +70,8 @@ challenges: jumping was a major issue to fix, but got there in the end. traps we
 working on next - picking up items, fixing tilemaps, and saving a score. finding an appropriate font for the game.
 
 Kylen - Uploaded torch and tilemaps to progress_info 22/08/2022.
+
+
+23/08/22:
+Ahmad has uploaded the 64bit background texture file.  
+Kylen has uploaded several tilemaps to progress_info.  
