@@ -7,3 +7,5 @@ Sawblade-in-progress: Sawblade sprite has been created, undecided whether the sa
 pixil-frame-0 (1) and pixil-frame-0 6: The 16bit background tilemap textures, in the process of being upscaled to 64bits. 22/8/22  
 Tilemap64-in-Progress: Currently most textures are in the process of being upscaled to 64bit, the screenshot shows the background tilemap textures which are nearly all done. 23/8/22  
 PlayerSprite: Current player sprite model, in the process of being created. 23/8/22  
+  
+Font Work.png - 23/8/22 the process of deciding the font to use for the game's text. the process went from 6 to 3 to 1 font. We all agree this is the best font to use.  
