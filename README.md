@@ -76,3 +76,4 @@ Kylen - Uploaded torch and tilemaps to progress_info 22/08/2022.
 Ahmad has uploaded the 64bit background texture file.  
 Kylen has uploaded several tilemaps to progress_info.  
 A bunch of other changes have been made - lots of small things. somthing notable is that of the font change. a new font has been selected and is being used instad of the default font that was being used before. that is going to be uploaded soon, and the tilemap should be fixed very soon. New information has been put in the progress folder.   
+charlie made barrel 23/8/22  
