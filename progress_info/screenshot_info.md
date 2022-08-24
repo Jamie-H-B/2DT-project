@@ -10,3 +10,4 @@ PlayerSprite: Current player sprite model, in the process of being created. 23/8
   
 Font Work.png - 23/8/22 the process of deciding the font to use for the game's text. the process went from 6 to 3 to 1 font. We all agree this is the best font to use.  
 New Font setup.png - 23/8/22 New font has been added and buttons have been updated. This is a major step up, and makes the menu look a lot better.  
+ScaleIssueFixed.png - 24/8/22 blurry tilemap issue was fixed by increasing the scale of the game. this made the tilemaps look a lot better.
