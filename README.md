@@ -78,3 +78,5 @@ Kylen has uploaded several tilemaps to progress_info.
 A bunch of other changes have been made - lots of small things. somthing notable is that of the font change. a new font has been selected and is being used instad of the default font that was being used before. that is going to be uploaded soon, and the tilemap should be fixed very soon. New information has been put in the progress folder.   
 24/8/22 - jamie updated the art progress showing a screenshot of the scale issue with the tilemaps fixed. about to work on an obect that can move to new level.  
 charlie made barrel 23/8/22  
+  
+29/8/22 - jamie updated the screenshots folder and has finished with an object to load the next level.  
