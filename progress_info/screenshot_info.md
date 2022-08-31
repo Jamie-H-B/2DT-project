@@ -13,3 +13,4 @@ New Font setup.png - 23/8/22 New font has been added and buttons have been updat
 ScaleIssueFixed.png - 24/8/22 blurry tilemap issue was fixed by increasing the scale of the game. this made the tilemaps look a lot better.
 Code.png - 29/8/22 Code for entering the next level has been setup. Was not any challenged, and was very fast to setup.  
 Gate.png - 29/8/22 asset for gate was setup, again no issues. was not a challenge and did not cause any problems. is saved as a prefab.  
+NewColorAndScoreMeter.png - 31/8/22 New font color has been chosen, it matches the pause buttons. Score counter has been added to the corner, and is about to be scripted. white box visible is "coin" and is set up to remove it's collider on collison with the player so that it stays there, but cannot constantly add score.  
