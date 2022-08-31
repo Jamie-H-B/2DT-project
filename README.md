@@ -81,4 +81,5 @@ charlie made barrel 23/8/22
   
 29/8/22 - jamie updated the screenshots folder and has finished with an object to load the next level.  
 31/8/22 - charlie fixed error with background obeject barrel  
-31/8/22 - jamie added another progress screenshot and is working on making a score counter work with the playerprefs database.  
+31/8/22 - jamie added another progress screenshot and is working on making a score counter work with the playerprefs database.
+31/8/22 - jamie added another screenshot of the scorecounter working with the itemcollector script.
