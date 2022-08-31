@@ -80,3 +80,4 @@ A bunch of other changes have been made - lots of small things. somthing notable
 charlie made barrel 23/8/22  
   
 29/8/22 - jamie updated the screenshots folder and has finished with an object to load the next level.  
+31/8/22 - charlie fixed error with background obeject barrel  
