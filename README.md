@@ -7,7 +7,7 @@ we have decided to make a 2D platformer on unity for our 2022 Programing assessm
 
 
 roles
-Jamie: Code
+Jamie: Code 
 Charlie: code and art
 Kylen: code and art
 Ahmed: art
@@ -79,6 +79,7 @@ A bunch of other changes have been made - lots of small things. somthing notable
 24/8/22 - jamie updated the art progress showing a screenshot of the scale issue with the tilemaps fixed. about to work on an obect that can move to new level.  
 charlie made barrel 23/8/22  
   
+29/8/22 - uploaded title art to art folder.
 29/8/22 - jamie updated the screenshots folder and has finished with an object to load the next level.  
 31/8/22 - charlie fixed error with background obeject barrel  
 31/8/22 - jamie added another progress screenshot and is working on making a score counter work with the playerprefs database.
