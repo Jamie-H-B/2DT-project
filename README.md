@@ -83,4 +83,23 @@ charlie made barrel 23/8/22
 29/8/22 - jamie updated the screenshots folder and has finished with an object to load the next level.  
 31/8/22 - charlie fixed error with background obeject barrel  
 31/8/22 - jamie added another progress screenshot and is working on making a score counter work with the playerprefs database.
-31/8/22 - jamie added another screenshot of the scorecounter working with the itemcollector script.
+31/8/22 - jamie added another screenshot of the scorecounter working with the itemcollector script.  
+  
+2/9/22 - scrum meeting  
+Kylen - has been: working on level design
+  
+Charlie - has been: level sketches and background objects.  
+challenges: not too many background objects or things to make the game look too interesting.  
+working on next - more options for level design, finishing off a sprite.  
+  
+Kylen - has been: menu design/level design (showing multiple options).  
+challenges: none.  
+working on next - continuing on menu design.  
+  
+Ahmed - has been: completed the spritesheet. more 64 bit textures? (not really needed).  
+challenges: none.  
+working on next - updating textures to 64 bit. 
+  
+Jamie - has been: working on the database, score system (done at this point).  
+challenges: playerprefs is a little comfusing. not too bad.  
+working on next - finishing database and animations.  animations shouldn't be too hard.  playerprefs should be done by the end of the 3rd.  
