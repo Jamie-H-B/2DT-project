@@ -104,4 +104,6 @@ Jamie - has been: working on the database, score system (done at this point).
 challenges: playerprefs is a little comfusing. not too bad.  
 working on next - finishing database and animations.  animations shouldn't be too hard.  playerprefs should be done by the end of the 3rd.  
 
-2/9/22 - Jamie. added a screenshot of planning for the save system. Shouldn't be too hard. 
+2/9/22 - Jamie. added a screenshot of planning for the save system. Shouldn't be too hard.  
+  
+6/9/22 - Jamie added screenshots showing new progress with saving and loading.  
