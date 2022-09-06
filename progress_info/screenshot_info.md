@@ -16,6 +16,8 @@ Gate.png - 29/8/22 asset for gate was setup, again no issues. was not a challeng
 NewColorAndScoreMeter.png - 31/8/22 New font color has been chosen, it matches the pause buttons. Score counter has been added to the corner, and is about to be scripted. white box visible is "coin" and is set up to remove it's collider on collison with the player so that it stays there, but cannot constantly add score.  
 ScoreCounterWorking.png - 31/8/22 score counter works and counts the score properly.  
    
+SpriteSheetProgress.png - 2/9/22 - Current player sprite model, sprite sheet completed.  
+playerruntest.gif - 2/9/22 - gif showcasing the animation featured in the spritesheet.  
 SaveSystemPlanning.png - 2/9/22 jamie - save system  planning. Getting an idea of what it needs to do. playerprefs is gonna be quite easy to use i think.  
   
 GateControlCode.png - 6/9/22 jamie wrote the code that controls the saving and loading associated with end level gates.  
