@@ -107,3 +107,5 @@ working on next - finishing database and animations.  animations shouldn't be to
 2/9/22 - Jamie. added a screenshot of planning for the save system. Shouldn't be too hard.  
   
 6/9/22 - Jamie added screenshots showing new progress with saving and loading.  
+  
+8/9/22 - Jamie added another screenshot to progress.
