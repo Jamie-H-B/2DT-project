@@ -108,4 +108,6 @@ working on next - finishing database and animations.  animations shouldn't be to
   
 6/9/22 - Jamie added screenshots showing new progress with saving and loading.  
   
-8/9/22 - Jamie added another screenshot to progress.
+8/9/22 - Jamie added another screenshot to progress.  
+  
+10/9/22 - Jamie added V8 to the google drive - music is almost done. We've got to decide the songs, and upload the proof of getting feedback on the music. gonna also upload some pictures of the google drive, and animations working. 

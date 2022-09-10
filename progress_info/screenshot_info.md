@@ -24,4 +24,7 @@ GateControlCode.png - 6/9/22 jamie wrote the code that controls the saving and l
 UpdatedTestLevel.png - 6/9/22 the new testing level - lots have changed but it allows for easy testing of game componants. includes the finalgate(left)  and level end gate  (right). 
 NewMainMenu.png - 6/9/22 The current main menu. the load save button has been replaced by the reset high score button.  
   
-NewSpriteInGame.png - 8/9/22 Jamie added the new Sprite to the game - animations are about to be done.
+NewSpriteInGame.png - 8/9/22 Jamie added the new Sprite to the game - animations are about to be done.  
+GoogleDriveProcess.png - 10/9/22 Jamie added a screenshot of the google drive.  
+JumpingAnimWorking.png - 10/9/22 Jamie added a screenshot of the jumping animation working properly.  
+DeathAnimationWorking - 10/9/22 Jamie added a screenshot of the death animation working properly. thanks to ahmed.  
