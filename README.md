@@ -110,4 +110,27 @@ working on next - finishing database and animations.  animations shouldn't be to
   
 8/9/22 - Jamie added another screenshot to progress.  
   
-10/9/22 - Jamie added V8 to the google drive - music is almost done. We've got to decide the songs, and upload the proof of getting feedback on the music. gonna also upload some pictures of the google drive, and animations working. 
+10/9/22 - Jamie added V8 to the google drive - music is almost done. We've got to decide the songs, and upload the proof of getting feedback on the music. gonna also upload some pictures of the google drive, and animations working.  
+  
+12/9/22 - scrum meeting  
+Kylen - Voting for soundtrack and effects, and level design.    
+challenges: none  
+working on next - more level design, and testing.  
+  
+Charlie - has been: Level Design, and helping with music and sound effects?  
+challenges: none.  
+working on next - more level design, and objects.  
+  
+Kylen - has been: menu design/level design (showing multiple options).  
+challenges: none.  
+working on next - continuing on menu design.  
+  
+Ahmed - has been: more small animations (dead hobo), no work on music.  
+challenges: none.  
+working on next - more music work and sound effects.  
+  
+Jamie - has been: working on setting up a music control system, animations, moving saws, and small bugs.  
+challenges: managing the group. is just a nightmare.  
+working on next - putting music in the game (when ahmed does the work for it) and putting in the final animation (when ahmed is done with it), then working on more levels (when everything else is done).  
+  
+12/9/22 - jamie uploaded more images to the github, and put on another scrum meeting.  

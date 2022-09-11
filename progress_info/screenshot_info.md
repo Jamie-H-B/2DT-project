@@ -29,4 +29,10 @@ GoogleDriveProcess.png - 10/9/22 Jamie added a screenshot of the google drive.
 JumpingAnimWorking.png - 10/9/22 Jamie added a screenshot of the jumping animation working properly.  
 DeathAnimationWorking - 10/9/22 Jamie added a screenshot of the death animation working properly. thanks to ahmed.  
 
-Homelessmanpreview.png - 12/9/22 Kylen added a screenshot of the pick-up item (souls)
+Homelessmanpreview.png - 12/9/22 Kylen added a screenshot of the pick-up item (souls).  
+SaveSystemFlowChart.png - 12/9/22 jamie added a screenshot of the flow chart that shows how the save system works.  
+SoundEffectVoting.png - 12/9/22 Jamie added a screenshot of the sound effect voting system.  
+SoundtrackVoting.png - 12/9/22 Jamie added a screenshot of the soundtrack voting System.  
+TestLevelV3.png - 12/9/22 jamie added a screenshot of the New Test Level - now has a placeholder for the item pickup (should be an animation but ahmed did not it yesterday).  
+LevelDesign.png - 12/9/22 Jamie added a screenshot of the LevelDesign section of the miro. it's super close to being done.  
+MenuDesign.png - 12/9/22 Jamie added a screenshot of the MenuDesign section, which is also about to be done.  
