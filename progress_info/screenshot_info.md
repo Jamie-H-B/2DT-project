@@ -28,3 +28,5 @@ NewSpriteInGame.png - 8/9/22 Jamie added the new Sprite to the game - animations
 GoogleDriveProcess.png - 10/9/22 Jamie added a screenshot of the google drive.  
 JumpingAnimWorking.png - 10/9/22 Jamie added a screenshot of the jumping animation working properly.  
 DeathAnimationWorking - 10/9/22 Jamie added a screenshot of the death animation working properly. thanks to ahmed.  
+
+Homelessmanpreview.png - 12/9/22 Kylen added a screenshot of the pick-up item (souls)
