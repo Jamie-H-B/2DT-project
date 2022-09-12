@@ -36,3 +36,5 @@ SoundtrackVoting.png - 12/9/22 Jamie added a screenshot of the soundtrack voting
 TestLevelV3.png - 12/9/22 jamie added a screenshot of the New Test Level - now has a placeholder for the item pickup (should be an animation but ahmed did not it yesterday).  
 LevelDesign.png - 12/9/22 Jamie added a screenshot of the LevelDesign section of the miro. it's super close to being done.  
 MenuDesign.png - 12/9/22 Jamie added a screenshot of the MenuDesign section, which is also about to be done.  
+examplegif.gif - 12/9/22 Ahmad added a gif of the pick-up item (souls).  
+example.png - 12/9/22 Ahmad added a png showcasing the item pick-up sprite sheet.  

@@ -134,3 +134,4 @@ challenges: managing the group. is just a nightmare.
 working on next - putting music in the game (when ahmed does the work for it) and putting in the final animation (when ahmed is done with it), then working on more levels (when everything else is done).  
   
 12/9/22 - jamie uploaded more images to the github, and put on another scrum meeting.  
+12/9/22 - Ahmad uploaded the item pick-up animations and object.  
