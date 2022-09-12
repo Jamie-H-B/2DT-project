@@ -42,4 +42,5 @@ ItemPickupSheet.png - 12/9/22 Ahmad added a png showcasing the full item pick-up
 Soul 2.gif - 12/9/22 Ahmad added a gif of the pick-up item (souls).  
 Soul 3.gif - 12/9/22 Ahmad added a gif of the pick-up item (souls).  
 ScreenshotPickUp.png - 13/9/22 Ahmad added a png showcasing the creation of the pick up animation. 
-PickUpAnimation.gif - 13/9/22 Ahmad added a gif showcasing the animation in action.
+PickUpAnimation.gif - 13/9/22 Ahmad added a gif showcasing the animation in action.  
+Sawblade.gif - 13/9/22 Ahmad added an animated version of the sawblade trap.  
