@@ -38,3 +38,8 @@ LevelDesign.png - 12/9/22 Jamie added a screenshot of the LevelDesign section of
 MenuDesign.png - 12/9/22 Jamie added a screenshot of the MenuDesign section, which is also about to be done.  
 examplegif.gif - 12/9/22 Ahmad added a gif of the pick-up item (souls).  
 example.png - 12/9/22 Ahmad added a png showcasing the item pick-up sprite sheet.  
+ItemPickupSheet.png - 12/9/22 Ahmad added a png showcasing the full item pick-up sprite sheet.  
+Soul 2.gif - 12/9/22 Ahmad added a gif of the pick-up item (souls).  
+Soul 3.gif - 12/9/22 Ahmad added a gif of the pick-up item (souls).  
+ScreenshotPickUp.png - 13/9/22 Ahmad added a png showcasing the creation of the pick up animation. 
+PickUpAnimation.gif - 13/9/22 Ahmad added a gif showcasing the animation in action.
