@@ -137,6 +137,10 @@ working on next - putting music in the game (when ahmed does the work for it) an
 12/9/22 - Ahmad uploaded the item pick-up animations and object.  
 12/9/22 - Ahmad uploaded the soundtrack and some other sound effects.  
 13/9/22 - Ahmad uploaded additional animations for item pick up.  
-13/9/22 - Ahmad uploaded the pick up animation.
+13/9/22 - Ahmad uploaded the pick up animation.  
 13/9/22 - Jamie uploaded a new version of the project to google drive - V9  
 14/9/22 - Jamie added some images of the levels being made.  
+13/9/22 - Ahmad uploaded the pick up animation.  
+13/9/22 - Ahmad uploaded an animated saw blade.  
+13/9/22 - group voted on: menu and level design.  
+14/9/22 - Ahmad uploaded an updated title sprite.  
