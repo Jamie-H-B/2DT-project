@@ -42,4 +42,6 @@ ItemPickupSheet.png - 12/9/22 Ahmad added a png showcasing the full item pick-up
 Soul 2.gif - 12/9/22 Ahmad added a gif of the pick-up item (souls).  
 Soul 3.gif - 12/9/22 Ahmad added a gif of the pick-up item (souls).  
 ScreenshotPickUp.png - 13/9/22 Ahmad added a png showcasing the creation of the pick up animation. 
-PickUpAnimation.gif - 13/9/22 Ahmad added a gif showcasing the animation in action.
+PickUpAnimation.gif - 13/9/22 Ahmad added a gif showcasing the animation in action.  
+FirstLevelComplete - 14/9/22 Jamie added a screenshot of the completed first level - working on the second right now.  
+SecondLevelBeingMade.png - 14/9/22 Jamie added a picture of The second level being made - not too hard. gonna have lots of parkour.  
