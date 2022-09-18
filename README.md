@@ -151,3 +151,5 @@ working on next - putting music in the game (when ahmed does the work for it) an
   
 18/9/22 - Jamie uploaded multiple pictures of the levels going into testing, along with more images of the google drive and testing section.  
 18/9/22 - Jamie uploaded a version 10.1 to the google drive containing some small bug fixes, and things that will be implemented into the new testing versions of the game. new test versions should be uploaded around tomorrow, adressing some of the bugs.  
+  
+18/9/22 - jamie updated the version of the game for testing from feedback (fixed the hitboxes, adjusted the volume of the game, and some small changes to the look of the background). Will upload version 10.2 of the project files.  
