@@ -153,3 +153,5 @@ working on next - putting music in the game (when ahmed does the work for it) an
 18/9/22 - Jamie uploaded a version 10.1 to the google drive containing some small bug fixes, and things that will be implemented into the new testing versions of the game. new test versions should be uploaded around tomorrow, adressing some of the bugs.  
   
 18/9/22 - jamie updated the version of the game for testing from feedback (fixed the hitboxes, adjusted the volume of the game, and some small changes to the look of the background). Will upload version 10.2 of the project files.  
+  
+19/9/22 - jamie got some more feedback and fixed a few bugs updating the testing versions now. (removing some spike traps, fixing issues with layers not working properly, and changing some spike traps.)  
