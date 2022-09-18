@@ -144,3 +144,10 @@ working on next - putting music in the game (when ahmed does the work for it) an
 13/9/22 - Ahmad uploaded an animated saw blade.  
 13/9/22 - group voted on: menu and level design.  
 14/9/22 - Ahmad uploaded an updated title sprite.  
+  
+17/9/22 - jamie built all the levels for the testing version and added some art to the menus.  
+17/9/22 - jamie fixed a few issues with the UI after the game was built, and put built mac and windows test versions.  
+17/9/22 - jamie put a testing version of the game on google drive, and setup ahmed and jamie set up a google form to gather results.  
+  
+18/9/22 - Jamie uploaded multiple pictures of the levels going into testing, along with more images of the google drive and testing section.  
+18/9/22 - Jamie uploaded a version 10.1 to the google drive containing some small bug fixes, and things that will be implemented into the new testing versions of the game. new test versions should be uploaded around tomorrow, adressing some of the bugs.  
