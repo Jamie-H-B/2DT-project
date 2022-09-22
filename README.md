@@ -156,4 +156,4 @@ working on next - putting music in the game (when ahmed does the work for it) an
   
 19/9/22 - jamie got some more feedback and fixed a few bugs updating the testing versions now. (removing some spike traps, fixing issues with layers not working properly, and changing some spike traps.)  
   
-22/9/22 - Jamie updated progress info with more info about the bug fixes (more readable text, faster falling, updated the instructions, fixed layering issues, and changed the player hitbox a tiny bit.)  
+22/9/22 - Jamie updated progress info with more info about the bug fixes (more readable text, faster falling, updated the instructions, fixed layering issues, and changed the player hitbox a tiny bit.) also uploaded the final project files and latest version of the game to the gihub. unless there are any major issues, this is the last time i'll need to do this. Going to collate the feedback and upload pics of that to the github. Probably gonna be a feedback section of the readme. Kylen also completed the milestones section today so we can see the major milestones of the project. that'll be uploaded to the github as an image as well.  
