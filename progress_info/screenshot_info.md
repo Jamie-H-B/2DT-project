@@ -57,4 +57,6 @@ MainMenuV1.png - 18/9/22 jamie uploaded a version of the main menu going into te
 LevelSelectV1.png - 18/9/22 jamie uploaded a version of the Level Select going into testing.  
   
 DownloadGuide.png - 18/9/22 jamie uploaded a picture of the download guide in the testing section.  
-GoogleDriveTesting.png - 18/9/22 jamie uploaded a picture of the google drive testing section.   
+GoogleDriveTesting.png - 18/9/22 jamie uploaded a picture of the google drive testing section.  
+  
+UpdatedLevelSelect.png - 22/9/22 Jamie uploaded a picture of the updated main menu, with more readable text, and a more detailed description. Gravity scale for the player was increased, to shorten the time in the air.  

@@ -155,3 +155,5 @@ working on next - putting music in the game (when ahmed does the work for it) an
 18/9/22 - jamie updated the version of the game for testing from feedback (fixed the hitboxes, adjusted the volume of the game, and some small changes to the look of the background). Will upload version 10.2 of the project files.  
   
 19/9/22 - jamie got some more feedback and fixed a few bugs updating the testing versions now. (removing some spike traps, fixing issues with layers not working properly, and changing some spike traps.)  
+  
+22/9/22 - Jamie updated progress info with more info about the bug fixes (more readable text, faster falling, updated the instructions, fixed layering issues, and changed the player hitbox a tiny bit.)  
