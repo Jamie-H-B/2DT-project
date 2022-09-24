@@ -1,7 +1,10 @@
-# 2DT-project  
+# 2DT-project   
 2d unity game for a school project  
-https://miro.com/app/dashboard/ the miro  
+https://miro.com/app/board/uXjVO3lV6C0=/?share_link_id=903523990816 the inquiry planning miro  
+https://miro.com/app/board/uXjVO3ldZXc=/?share_link_id=153388998008 the artistic design miro  
+https://miro.com/app/board/uXjVOqgnTYE=/?share_link_id=342168067944 the concept design miro  
 https://trello.com/b/oGmjmPPS/programming-stuff the trello  
+https://drive.google.com/drive/folders/1290oV-o5aLccIbRzmhdxS62VYm7MJ72s?usp=sharing the google drive link  
 we have decided to make a 2D platformer on unity for our 2022 Programing assessment. The focus of this game will be to entertain and tell a story, also to teach ourselves how to use unity. we went with making a 2D game as we thought that it related to us all as we all enjoy playing games and we know a little bit about the way they work. The tools and sites that we will be using are: Miro, Trello, Github, and unity. 
 
 
@@ -16,7 +19,7 @@ Ahmed: art
 change log  
 4/7/22 - jamie added horizontal movement and set up github  
 5/7/22 - jamie added jumping, and made the camera follow the player  
-6/7/22 - jamie moved project files to google drive due to running out of GitHub LFS storage
+6/7/22 - jamie moved project files to google drive due to running out of GitHub LFS storage.  
 2/8/22 - jamie added a few bits of art to the github  
 3/8/22 - charlie added person template for player place holder  
 3/8/22 - jamie added the updated unity project with working menus to the google drive  
@@ -79,7 +82,7 @@ A bunch of other changes have been made - lots of small things. somthing notable
 24/8/22 - jamie updated the art progress showing a screenshot of the scale issue with the tilemaps fixed. about to work on an obect that can move to new level.  
 charlie made barrel 23/8/22  
   
-29/8/22 - uploaded title art to art folder.
+29/8/22 - uploaded title art to art folder.  
 29/8/22 - jamie updated the screenshots folder and has finished with an object to load the next level.  
 31/8/22 - charlie fixed error with background obeject barrel  
 31/8/22 - jamie added another progress screenshot and is working on making a score counter work with the playerprefs database.
@@ -121,10 +124,6 @@ Charlie - has been: Level Design, and helping with music and sound effects?
 challenges: none.  
 working on next - more level design, and objects.  
   
-Kylen - has been: menu design/level design (showing multiple options).  
-challenges: none.  
-working on next - continuing on menu design.  
-  
 Ahmed - has been: more small animations (dead hobo), no work on music.  
 challenges: none.  
 working on next - more music work and sound effects.  
@@ -147,7 +146,7 @@ working on next - putting music in the game (when ahmed does the work for it) an
   
 17/9/22 - jamie built all the levels for the testing version and added some art to the menus.  
 17/9/22 - jamie fixed a few issues with the UI after the game was built, and put built mac and windows test versions.  
-17/9/22 - jamie put a testing version of the game on google drive, and setup ahmed and jamie set up a google form to gather results.  
+17/9/22 - jamie put a testing version of the game on google drive, and ahmed and jamie set up a google form to gather results.  
   
 18/9/22 - Jamie uploaded multiple pictures of the levels going into testing, along with more images of the google drive and testing section.  
 18/9/22 - Jamie uploaded a version 10.1 to the google drive containing some small bug fixes, and things that will be implemented into the new testing versions of the game. new test versions should be uploaded around tomorrow, adressing some of the bugs.  
@@ -157,3 +156,61 @@ working on next - putting music in the game (when ahmed does the work for it) an
 19/9/22 - jamie got some more feedback and fixed a few bugs updating the testing versions now. (removing some spike traps, fixing issues with layers not working properly, and changing some spike traps.)  
   
 22/9/22 - Jamie updated progress info with more info about the bug fixes (more readable text, faster falling, updated the instructions, fixed layering issues, and changed the player hitbox a tiny bit.) also uploaded the final project files and latest version of the game to the gihub. unless there are any major issues, this is the last time i'll need to do this. Going to collate the feedback and upload pics of that to the github. Probably gonna be a feedback section of the readme. Kylen also completed the milestones section today so we can see the major milestones of the project. that'll be uploaded to the github as an image as well.  
+  
+24/9/22 - Jamie uploaded a final version of the game fixing a bug with the UI on certain screens. Last fix for the project.  
+  
+Milestones:  
+4/7/22 - jamie added horizontal movement and set up github  
+5/7/22 - jamie added jumping, and made the camera follow the player  
+Notes: really was the start. We mostly knew what we were getting into, but i was proud to be able to do the very simple things for making a game - Jamie.  
+  
+6/7/22 - jamie moved project files to google drive due to running out of GitHub LFS storage.  
+3/8/22 - jamie added the updated unity project with working menus to the google drive  
+Notes: We went through the process of setting up gitLFS, but turns out we could not use it cause of limited storage - Jamie.  
+  
+Ahmad has uploaded the 64bit background texture file.  
+A bunch of other changes have been made - lots of small things. somthing notable is that of the font change. a new font has been selected and is being used instad of the default font that was being used before. that is going to be uploaded soon, and the tilemap should be fixed very soon. New information has been put in the progress folder.   
+24/8/22 - jamie updated the art progress showing a screenshot of the scale issue with the tilemaps fixed. about to work on an obect that can move to new level.  
+Notes: The tilemaps provided trooublesome, but with some work we fixed the issues, and in the process mangaged to fix a problem with the textures being slighty blurry. this really was important and very lucky overall - Jamie.  
+  
+29/8/22 - jamie updated the screenshots folder and has finished with an object to load the next level.  
+2/9/22 - Jamie. added a screenshot of planning for the save system. Shouldn't be too hard.  
+6/9/22 - Jamie added screenshots showing new progress with saving and loading.  
+Notes: Managing the save system was a pig to do. I learned a lot about logic in C#, and how to manage such things. tying them to collisions wasn't too hard, and taught me a lot about combining scripts - jamie.  
+  
+10/9/22 - Jamie added V8 to the google drive - music is almost done. We've got to decide the songs, and upload the proof of getting feedback on the music. gonna also upload some pictures of the google drive, and animations working.  
+Notes: The soulution to github really was great. Using the drive to store versions of the game and the github to manage art and progress was great, and really allowed us to control releases and monitor progress - jamie.  
+  
+12/9/22 - scrum meeting  
+Kylen - Voting for soundtrack and effects, and level design.    
+challenges: none  
+working on next - more level design, and testing.  
+  
+Charlie - has been: Level Design, and helping with music and sound effects?  
+challenges: none.  
+working on next - more level design, and objects.  
+  
+Ahmed - has been: more small animations (dead hobo), no work on music.  
+challenges: none.  
+working on next - more music work and sound effects.  
+  
+Jamie - has been: working on setting up a music control system, animations, moving saws, and small bugs.  
+challenges: managing the group. is just a nightmare.  
+working on next - putting music in the game (when ahmed does the work for it) and putting in the final animation (when ahmed is done with it), then working on more levels (when everything else is done).  
+Notes: The music was super easy and fun to do. was as simple as choosing a song, and putting it in the right box in unity - Jamie.  
+  
+12/9/22 - Ahmad uploaded the soundtrack and some other sound effects.  
+  
+13/9/22 - Jamie uploaded a new version of the project to google drive - V9  
+  
+17/9/22 - jamie built all the levels for the testing version and added some art to the menus.  
+17/9/22 - jamie fixed a few issues with the UI after the game was built, and put built mac and windows test versions.  
+17/9/22 - jamie put a testing version of the game on google drive, and ahmed and jamie set up a google form to gather results.  
+Notes: the testing went really well. We got lots of helpful feedback and because of it the game felt a lot better. We didn't really have feedback froom people that didn't play a lot of games, and if we had more time it would have been good to get that done - Jamie.  
+  
+18/9/22 - Jamie uploaded a version 10.1 to the google drive containing some small bug fixes, and things that will be implemented into the new testing versions of the game. new test versions should be uploaded around tomorrow, adressing some of the bugs.  
+18/9/22 - jamie updated the version of the game for testing from feedback (fixed the hitboxes, adjusted the volume of the game, and some small changes to the look of the background). Will upload version 10.2 of the project files.  
+19/9/22 - jamie got some more feedback and fixed a few bugs updating the testing versions now. (removing some spike traps, fixing issues with layers not working properly, and changing some spike traps.)  
+22/9/22 - Jamie updated progress info with more info about the bug fixes (more readable text, faster falling, updated the instructions, fixed layering issues, and changed the player hitbox a tiny bit.) also uploaded the final project files and latest version of the game to the gihub. unless there are any major issues, this is the last time i'll need to do this. Going to collate the feedback and upload pics of that to the github. Probably gonna be a feedback section of the readme. Kylen also completed the milestones section today so we can see the major milestones of the project. that'll be uploaded to the github as an image as well.  
+24/9/22 - Jamie uploaded a final version of the game fixing a bug with the UI on certain screens. Last fix for the project.  
+Notes: Coming up  on the final bit was amazing.  We made so much progress during this project and finally uploading the last version was amazing to see. the last thing to do is finish the write up and then hand it in.  
